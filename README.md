@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://hackernoon.imgix.net/hn-images/1*9npNPVH7iNJ64Koq7EcW5A.jpeg)]
+[![MasterHead]([https://hackernoon.imgix.net/hn-images/1*9npNPVH7iNJ64Koq7EcW5A.jpeg](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg))]
 <h1 align="center">Hi 👋, I'm SankaraMoothi</h1>
 <h3 align="center">A Up Coming Full Stock Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
