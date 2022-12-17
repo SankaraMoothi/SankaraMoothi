@@ -29,8 +29,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **Do What Excites You....!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mass sankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mass sankar" height="30" width="40" /></a>
-<a href="https://instagram.com/mass_sankar_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mass_sankar_29" height="30" width="40" /></a>
-</p>
+
