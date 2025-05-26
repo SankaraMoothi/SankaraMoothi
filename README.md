@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <a href="#"><img  src="https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg" width="1000px" height="400px" /></a>
+ <a href="#"><img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Ffull-stack-developer&psig=AOvVaw3y1zybZMMUsaLrZ8aahXto&ust=1748358960605000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjOlPO2wY0DFQAAAAAdAAAAABAE" width="1000px" height="400px" /></a>
  </div>
 <h1 align="center">Hi 👋, I'm SankaraMoothi</h1>
 <h3 align="center">A Up Coming Full Stock Developer</h3>
